@@ -1,0 +1,9 @@
+Package: com.whoami.vpnmasterlaunchermodule
+Name: VPNMaster快速启动
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: VPNMaster快速启动
+Maintainer: whoami
+Author: whoami
+Section: Control Center (Modules)
